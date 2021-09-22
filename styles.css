@@ -208,7 +208,8 @@ nav justify-content-end
   z-index: 1020;
 }
 
-.container {
+.container,
+.container-fluid {
   width: 100%;
   padding-right: var(--bs-gutter-x, 0.75rem);
   padding-left: var(--bs-gutter-x, 0.75rem);
